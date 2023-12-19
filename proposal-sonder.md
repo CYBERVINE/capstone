@@ -141,27 +141,7 @@ challenges: news and llm apis do not provide satisfactory content
 
 
 
-###### two ###########################################################
-
-
-ceativityHub
-
-connect and collect. map the best pop up event and performances, promote your art and keep your favorites
-sign up as a conisure to peruse world wide art and local events
-sign up as an artist and get eyes on your work and ears for your music
-sign up as a venue to host pop up gallery events and get people in your place
-
-why: patron artists and venues all benifit from eachother in different ways but don't have a 
-     centralized place to interact digitally
-
-who: everyone
-
-pro: Ecommerce element ==> use paypl sandbox
-     multiple profile styles and interaction
-     map of events
-
-
-##### three ##########################################################
+##### two ##########################################################
 
 
 lockdown

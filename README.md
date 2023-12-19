@@ -1,1 +1,1 @@
-This is my main capstone proposal along with a few other ideas.
+Two capstone proposals with two other ideas.
