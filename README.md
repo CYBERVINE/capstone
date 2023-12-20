@@ -1,1 +1,1 @@
-Capstone proposals and other ideas.
+Capstone proposal and other ideas.
