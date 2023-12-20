@@ -14,7 +14,7 @@ but don't have a centralized place to interact.
 
 ### User Profile
 
-People who create and and perfrom.
+People who create and perfrom.
 People who enjoy art and performances.
 Venues who want to draw people in and host.
 
@@ -125,7 +125,7 @@ Profiles
 /colabchat
   .get
   .post
-
+code cr 
 ### Auth
 
 JWT

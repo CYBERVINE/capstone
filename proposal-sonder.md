@@ -105,6 +105,12 @@ Desktop is easy. Geolocation.getCurrentPosition(): Retrieves the device's curren
 
 Mobile has more protections that I havent had time to fully explore. 
 
+Ngrock 
+
+envyrock
+
+audience comes last
+
 ## Nice-to-haves
 
   Wander mode to get real time notification when you are prominal to a post
