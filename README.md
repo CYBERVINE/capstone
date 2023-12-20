@@ -1,1 +1,1 @@
-Two capstone proposals with two other ideas.
+Capstone proposals and other ideas.
